@@ -8,7 +8,7 @@ import configparser
 
 # Gmail credentials
 user = "abdelrahmanprinceamr@gmail.com"
-password = "iliy sunh zjnr hqul"  # This should be your application-specific password
+password = "zjnr hqul"  # This should be your application-specific password
 
 
 
